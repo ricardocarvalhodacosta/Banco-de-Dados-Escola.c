@@ -1,7 +1,7 @@
 # Banco-de_Dados-Escola.c
 
-Este programa funciona como um banco de dados, armazenando e lendo dados para uma escola genérica;
-O programa foi criado para estudo e evolução da minha senoriedade com a linguagem.
+Este programa funciona como um banco de dados, armazenando e lendo dados para uma escola genérica;\n
+O programa foi criado para estudo e evolução das minhas habilidades com a linguagem.
 
 Com este programa você pode:
 
