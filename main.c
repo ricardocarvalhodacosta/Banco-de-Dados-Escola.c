@@ -221,7 +221,7 @@ int main (void) {
 				classeC = fopen ("ClasseC.txt", "r");
 				do
 	            {
-	                menu.leitura = fgetc(classeB);
+	                menu.leitura = fgetc(classeC);
 	                printf("%c", menu.leitura);
 	
 	            } while (menu.leitura != EOF);
