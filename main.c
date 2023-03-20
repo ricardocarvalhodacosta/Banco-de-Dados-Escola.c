@@ -14,7 +14,6 @@ typedef struct {
 typedef struct {
 	char menu;
 	int op;
-	char sala;
 	char leitura;
 } menu ;
 
