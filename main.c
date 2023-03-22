@@ -34,10 +34,10 @@ int main (void) {
 	printf("|      Olá, eu sou o banco de dados      |\n");
 	printf("|        e estou aqui para ajudar!       |\n");
 	printf("|       Antes de começarmos, me diga:    |\n");
-    printf("|  Qual classe voce gostaria de acessar? |\n");
-    printf("|     Classe A, Classe B ou Classe C?    |\n");
-    printf("|  Por favor, digite a letra da Classe:  |\n");
-    printf("|________________________________________|\n");
+    	printf("|  Qual classe voce gostaria de acessar? |\n");
+    	printf("|     Classe A, Classe B ou Classe C?    |\n");
+    	printf("|  Por favor, digite a letra da Classe:  |\n");
+    	printf("|________________________________________|\n");
    	scanf("%c", &menu.menu); //Armazena a opção da Classe escolhida;
    	menu.menu = toupper(menu.menu); //Transforma a letra digitada em MAIUSCULO;
    	
